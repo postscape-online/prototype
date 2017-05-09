@@ -26,6 +26,8 @@
 
 			<script>
 				console.log("obj");
+				var hirata;
+				console.log(hirata);
 			</script>
 
 
