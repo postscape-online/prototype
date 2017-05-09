@@ -25,9 +25,7 @@
 			?>
 
 			<script>
-				console.log("obj");
-				var hirata;
-				console.log(hirata);
+				console.log("next");
 			</script>
 
 
