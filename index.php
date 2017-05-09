@@ -25,7 +25,8 @@
 			?>
 
 			<script>
-				
+				var hirata;
+				console.log(hirata);
 			</script>
 
 
